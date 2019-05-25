@@ -28,7 +28,7 @@ entitylayer:
   # (optional) set minimum zoom level before layer is visible (0 = defalt, always visible)
   minzoom: 0
   # If true, include call stack in chunk area description text
-  include-stack: false
+  include-stack: true
   # Marker for leaked entities
   marker: exclamation
 
